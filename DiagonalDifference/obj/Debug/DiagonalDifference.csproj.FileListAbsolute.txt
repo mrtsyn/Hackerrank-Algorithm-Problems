@@ -1,0 +1,6 @@
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\DiagonalDifference\obj\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\DiagonalDifference\obj\Debug\DiagonalDifference.pdb
