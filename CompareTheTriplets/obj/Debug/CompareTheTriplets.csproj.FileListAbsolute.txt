@@ -1,0 +1,5 @@
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe.config
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\CompareTheTriplets\bin\Debug\CompareTheTriplets.pdb
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\CompareTheTriplets\obj\Debug\CompareTheTriplets.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\CompareTheTriplets\obj\Debug\CompareTheTriplets.pdb
