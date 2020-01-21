@@ -63,7 +63,7 @@ namespace AppleAndOrange
         }
     }
 
-    // SORU
+    // QUESTION
 
     //Sam's house has an apple tree and an orange tree that yield an abundance of fruit. 
     //In the diagram below, the red region denotes his house, where s is the start point, and t is the endpoint. 
