@@ -1,0 +1,6 @@
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\GradingStudents\bin\Debug\GradingStudents.exe.config
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\GradingStudents\bin\Debug\GradingStudents.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\GradingStudents\bin\Debug\GradingStudents.pdb
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\GradingStudents\obj\Debug\GradingStudents.csprojResolveAssemblyReference.cache
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\GradingStudents\obj\Debug\GradingStudents.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\GradingStudents\obj\Debug\GradingStudents.pdb
