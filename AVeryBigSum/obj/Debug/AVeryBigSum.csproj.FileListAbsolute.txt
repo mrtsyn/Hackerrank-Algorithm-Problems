@@ -1,0 +1,6 @@
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\AVeryBigSum\bin\Debug\AVeryBigSum.exe.config
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\AVeryBigSum\bin\Debug\AVeryBigSum.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\AVeryBigSum\bin\Debug\AVeryBigSum.pdb
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\AVeryBigSum\obj\Debug\AVeryBigSum.csprojResolveAssemblyReference.cache
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\AVeryBigSum\obj\Debug\AVeryBigSum.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\AVeryBigSum\obj\Debug\AVeryBigSum.pdb
