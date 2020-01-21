@@ -1,0 +1,6 @@
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\EqualizeTheArray\bin\Debug\EqualizeTheArray.exe.config
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\EqualizeTheArray\bin\Debug\EqualizeTheArray.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\EqualizeTheArray\bin\Debug\EqualizeTheArray.pdb
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\EqualizeTheArray\obj\Debug\EqualizeTheArray.csprojResolveAssemblyReference.cache
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\EqualizeTheArray\obj\Debug\EqualizeTheArray.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\EqualizeTheArray\obj\Debug\EqualizeTheArray.pdb
