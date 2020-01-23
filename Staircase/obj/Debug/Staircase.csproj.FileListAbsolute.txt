@@ -1,0 +1,5 @@
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\Staircase\bin\Debug\Staircase.exe.config
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\Staircase\bin\Debug\Staircase.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\Staircase\bin\Debug\Staircase.pdb
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\Staircase\obj\Debug\Staircase.exe
+C:\Users\GP0186\Desktop\HackerRankProjects\ConsoleApplication1\Staircase\obj\Debug\Staircase.pdb
