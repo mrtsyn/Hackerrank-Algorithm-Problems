@@ -1,0 +1,7 @@
+C:\Users\Murat\Desktop\HackerRankProjects\ConsoleApplication1\BeautifulDaysAtTheMovies\bin\Debug\BeautifulDaysAtTheMovies.exe.config
+C:\Users\Murat\Desktop\HackerRankProjects\ConsoleApplication1\BeautifulDaysAtTheMovies\bin\Debug\BeautifulDaysAtTheMovies.exe
+C:\Users\Murat\Desktop\HackerRankProjects\ConsoleApplication1\BeautifulDaysAtTheMovies\bin\Debug\BeautifulDaysAtTheMovies.pdb
+C:\Users\Murat\Desktop\HackerRankProjects\ConsoleApplication1\BeautifulDaysAtTheMovies\obj\Debug\BeautifulDaysAtTheMovies.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\HackerRankProjects\ConsoleApplication1\BeautifulDaysAtTheMovies\obj\Debug\BeautifulDaysAtTheMovies.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\HackerRankProjects\ConsoleApplication1\BeautifulDaysAtTheMovies\obj\Debug\BeautifulDaysAtTheMovies.exe
+C:\Users\Murat\Desktop\HackerRankProjects\ConsoleApplication1\BeautifulDaysAtTheMovies\obj\Debug\BeautifulDaysAtTheMovies.pdb
